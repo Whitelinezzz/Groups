@@ -1,0 +1,7 @@
+Vitaly Kotov 10
+Abramov Alexander 20
+Belyaev Maximilian 30
+Safonov German 40
+Panfilov Evgeniy 50
+Noskov Lev 60
+Kozlov Ruslan 70
